@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Food on Dramatic Parsley</title>
+    <link>/bokbok/food/</link>
+    <description>Recent content in Food on Dramatic Parsley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/bokbok/food/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Camera</title>
+      <link>/bokbok/food/camera/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/bokbok/food/camera/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design</title>
+      <link>/bokbok/food/design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/bokbok/food/design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tracking</title>
+      <link>/bokbok/food/tracking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/bokbok/food/tracking/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nest on Dramatic Parsley</title>
+    <link>/bokbok/nest/</link>
+    <description>Recent content in Nest on Dramatic Parsley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/bokbok/nest/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Camera</title>
+      <link>/bokbok/nest/camera/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/bokbok/nest/camera/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design</title>
+      <link>/bokbok/nest/design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/bokbok/nest/design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tracking</title>
+      <link>/bokbok/nest/tracking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/bokbok/nest/tracking/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
