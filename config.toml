@@ -45,9 +45,7 @@ googleAnalytics = "G-YD0P4X1F3W"
 
   [[params.navlinks]]
   name = "Home"
-  url = "home/"
-  home = true
-
+  url = "/"
 
   [[params.navlinks]]
   name = "Project Dramatic Parsley"
