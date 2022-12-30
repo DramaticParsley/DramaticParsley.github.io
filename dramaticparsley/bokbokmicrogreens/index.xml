@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Microgreens for Project Bok Bok on Dramatic Parsley</title>
-    <link>/dramaticparsley/bokbokmicrogreens/</link>
+    <link>https://dramaticparsley.github.io/dramaticparsley/bokbokmicrogreens/</link>
     <description>Recent content in Microgreens for Project Bok Bok on Dramatic Parsley</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/dramaticparsley/bokbokmicrogreens/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://dramaticparsley.github.io/dramaticparsley/bokbokmicrogreens/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Camera</title>
-      <link>/dramaticparsley/bokbokmicrogreens/camera/</link>
+      <link>https://dramaticparsley.github.io/dramaticparsley/bokbokmicrogreens/camera/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/dramaticparsley/bokbokmicrogreens/camera/</guid>
+      <guid>https://dramaticparsley.github.io/dramaticparsley/bokbokmicrogreens/camera/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Design</title>
-      <link>/dramaticparsley/bokbokmicrogreens/design/</link>
+      <link>https://dramaticparsley.github.io/dramaticparsley/bokbokmicrogreens/design/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/dramaticparsley/bokbokmicrogreens/design/</guid>
+      <guid>https://dramaticparsley.github.io/dramaticparsley/bokbokmicrogreens/design/</guid>
       <description></description>
     </item>
     

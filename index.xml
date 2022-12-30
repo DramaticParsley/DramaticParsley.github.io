@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dramatic Parsley</title>
-    <link>/</link>
+    <link>https://dramaticparsley.github.io/</link>
     <description>Recent content on Dramatic Parsley</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://dramaticparsley.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Dramatic Parsley</title>
-      <link>/about/</link>
+      <link>https://dramaticparsley.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://dramaticparsley.github.io/about/</guid>
       <description>So far, this website is here to handle all the projects that are a part of or related to
 Project Bok Bok Project Dramatic Parsley Project Bok Bok Projects related to monitoring, tracking, and handling my chickens.
 Project Dramatic Parsley Projects related to botony, plants, and any plant that requires monitoring of some sort.
@@ -20,145 +20,145 @@ Misc This will contain anything that pertains to all other projects</description
     
     <item>
       <title>Aloe</title>
-      <link>/dramaticparsley/houseplants/aloe/</link>
+      <link>https://dramaticparsley.github.io/dramaticparsley/houseplants/aloe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/dramaticparsley/houseplants/aloe/</guid>
+      <guid>https://dramaticparsley.github.io/dramaticparsley/houseplants/aloe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Camera</title>
-      <link>/bokbok/food/camera/</link>
+      <link>https://dramaticparsley.github.io/bokbok/food/camera/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/bokbok/food/camera/</guid>
+      <guid>https://dramaticparsley.github.io/bokbok/food/camera/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Camera</title>
-      <link>/bokbok/freerange/camera/</link>
+      <link>https://dramaticparsley.github.io/bokbok/freerange/camera/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/bokbok/freerange/camera/</guid>
+      <guid>https://dramaticparsley.github.io/bokbok/freerange/camera/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Camera</title>
-      <link>/bokbok/nest/camera/</link>
+      <link>https://dramaticparsley.github.io/bokbok/nest/camera/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/bokbok/nest/camera/</guid>
+      <guid>https://dramaticparsley.github.io/bokbok/nest/camera/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Camera</title>
-      <link>/bokbok/water/camera/</link>
+      <link>https://dramaticparsley.github.io/bokbok/water/camera/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/bokbok/water/camera/</guid>
+      <guid>https://dramaticparsley.github.io/bokbok/water/camera/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Camera</title>
-      <link>/dramaticparsley/bokbokmicrogreens/camera/</link>
+      <link>https://dramaticparsley.github.io/dramaticparsley/bokbokmicrogreens/camera/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/dramaticparsley/bokbokmicrogreens/camera/</guid>
+      <guid>https://dramaticparsley.github.io/dramaticparsley/bokbokmicrogreens/camera/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Design</title>
-      <link>/bokbok/food/design/</link>
+      <link>https://dramaticparsley.github.io/bokbok/food/design/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/bokbok/food/design/</guid>
+      <guid>https://dramaticparsley.github.io/bokbok/food/design/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Design</title>
-      <link>/bokbok/freerange/design/</link>
+      <link>https://dramaticparsley.github.io/bokbok/freerange/design/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/bokbok/freerange/design/</guid>
+      <guid>https://dramaticparsley.github.io/bokbok/freerange/design/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Design</title>
-      <link>/bokbok/nest/design/</link>
+      <link>https://dramaticparsley.github.io/bokbok/nest/design/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/bokbok/nest/design/</guid>
+      <guid>https://dramaticparsley.github.io/bokbok/nest/design/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Design</title>
-      <link>/bokbok/water/design/</link>
+      <link>https://dramaticparsley.github.io/bokbok/water/design/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/bokbok/water/design/</guid>
+      <guid>https://dramaticparsley.github.io/bokbok/water/design/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Design</title>
-      <link>/dramaticparsley/bokbokmicrogreens/design/</link>
+      <link>https://dramaticparsley.github.io/dramaticparsley/bokbokmicrogreens/design/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/dramaticparsley/bokbokmicrogreens/design/</guid>
+      <guid>https://dramaticparsley.github.io/dramaticparsley/bokbokmicrogreens/design/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tracking</title>
-      <link>/bokbok/food/tracking/</link>
+      <link>https://dramaticparsley.github.io/bokbok/food/tracking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/bokbok/food/tracking/</guid>
+      <guid>https://dramaticparsley.github.io/bokbok/food/tracking/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tracking</title>
-      <link>/bokbok/freerange/tracking/</link>
+      <link>https://dramaticparsley.github.io/bokbok/freerange/tracking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/bokbok/freerange/tracking/</guid>
+      <guid>https://dramaticparsley.github.io/bokbok/freerange/tracking/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tracking</title>
-      <link>/bokbok/nest/tracking/</link>
+      <link>https://dramaticparsley.github.io/bokbok/nest/tracking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/bokbok/nest/tracking/</guid>
+      <guid>https://dramaticparsley.github.io/bokbok/nest/tracking/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tracking</title>
-      <link>/bokbok/water/tracking/</link>
+      <link>https://dramaticparsley.github.io/bokbok/water/tracking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/bokbok/water/tracking/</guid>
+      <guid>https://dramaticparsley.github.io/bokbok/water/tracking/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Website Design</title>
-      <link>/misc/website/design/</link>
+      <link>https://dramaticparsley.github.io/misc/website/design/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/misc/website/design/</guid>
+      <guid>https://dramaticparsley.github.io/misc/website/design/</guid>
       <description></description>
     </item>
     

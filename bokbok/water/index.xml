@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Water on Dramatic Parsley</title>
-    <link>/bokbok/water/</link>
+    <link>https://dramaticparsley.github.io/bokbok/water/</link>
     <description>Recent content in Water on Dramatic Parsley</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/bokbok/water/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://dramaticparsley.github.io/bokbok/water/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Camera</title>
-      <link>/bokbok/water/camera/</link>
+      <link>https://dramaticparsley.github.io/bokbok/water/camera/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/bokbok/water/camera/</guid>
+      <guid>https://dramaticparsley.github.io/bokbok/water/camera/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Design</title>
-      <link>/bokbok/water/design/</link>
+      <link>https://dramaticparsley.github.io/bokbok/water/design/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/bokbok/water/design/</guid>
+      <guid>https://dramaticparsley.github.io/bokbok/water/design/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tracking</title>
-      <link>/bokbok/water/tracking/</link>
+      <link>https://dramaticparsley.github.io/bokbok/water/tracking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/bokbok/water/tracking/</guid>
+      <guid>https://dramaticparsley.github.io/bokbok/water/tracking/</guid>
       <description></description>
     </item>
     
