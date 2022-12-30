@@ -1,5 +1,6 @@
-baseurl = "https://dramaticparsley.github.io/"
-baseURL = "https://dramaticparsley.github.io/"
+baseURL = "/"
+uglyURLs = true
+relativeURLs = true
 title = "Dramatic Parsley"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
