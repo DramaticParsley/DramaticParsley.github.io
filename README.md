@@ -1,11 +1,11 @@
 # DramaticParsley.github.io
 Website
 
-#Run it Locally
+# Run it Locally
 Do so by 
 ```
 hugo server
 ```
 
-#CICD
+# CICD
 Done through Github actions and deployed to github pages
