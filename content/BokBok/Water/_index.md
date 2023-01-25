@@ -1,7 +1,7 @@
 +++
 title = "Water"
 draft = false
-image = "img/BokBok/Water/thumbnail.jpg"
+image = "img/BokBok/Main/Water2.jpg"
 showonlyimage = false
 +++
 

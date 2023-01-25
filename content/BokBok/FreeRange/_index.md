@@ -1,7 +1,7 @@
 +++
 title = "Free Range"
 draft = false
-image = "img/BokBok/FreeRange/thumbnail.jpg"
+image = "img/BokBok/Main/FreeRange.jpg"
 showonlyimage = false
 +++
 

@@ -1,7 +1,7 @@
 +++
 title = "Nest"
 draft = false
-image = "img/BokBok/Nest/thumbnail.jpg"
+image = "img/BokBok/Main/Nest.jpg"
 showonlyimage = false
 +++
 

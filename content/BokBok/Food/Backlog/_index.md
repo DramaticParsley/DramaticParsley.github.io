@@ -1,9 +1,9 @@
 +++
-title = "Food"
+title = "BokBok Food Backlog"
 draft = false
-image = "img/BokBok/Main/Food.jpg"
 showonlyimage = false
 +++
 
 <!--more-->
 
+TODO
